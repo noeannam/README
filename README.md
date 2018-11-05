@@ -26,8 +26,11 @@ XXS
   I am using XSS with WP 4.2, which was fixed in version 4.7.3.
   - [ ] GIF Walkthrough: ![](https://i.imgur.com/uDAam90.gif)
   - [ ] Steps to Recreate:
+  
         1. Create a media post 
+        
         2. Add  "filename <script>alert("Exploit 3 Successful");</script>" to the desciption (include the quotes)
+        
         3. Then click view attachment page and the alert box will pop up
   - [ ] Affected Source Code:
         None
