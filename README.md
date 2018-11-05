@@ -39,10 +39,12 @@ XXS
   XXS
 
   - [ ] Summary:
-  
-  I am using XSS with WP 4.2, which was fixed in version 
-  - [ ] GIF Walkthrough:
+ 
+  I am using XSS with WP 4.0, which was fixed in version 4.2.
+  - [ ] GIF Walkthrough:![]()
   - [ ] Steps to Recreate:
+  
+  You post the following into a comment on a post: 
   - [ ] Affected Source Code:
         None
 
