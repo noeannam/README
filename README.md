@@ -41,7 +41,7 @@ XXS
   - [ ] Summary:
  
   I am using XSS with WP 4.0, which was fixed in version 4.2.
-  - [ ] GIF Walkthrough:![]()
+  - [ ] GIF Walkthrough:![](https://imgur.com/fe79b5e2-b00c-4af3-ad81-42f60001cad9)
   - [ ] Steps to Recreate:
   
   You post the following into a comment on a post: <script>while(1){alert(document.cookie);}<script>
