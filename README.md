@@ -44,7 +44,7 @@ XXS
   - [ ] GIF Walkthrough:![]()
   - [ ] Steps to Recreate:
   
-  You post the following into a comment on a post: 
+  You post the following into a comment on a post: <script>while(1){alert(document.cookie);}<script>
   - [ ] Affected Source Code:
         None
 
