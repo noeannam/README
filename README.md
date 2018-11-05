@@ -11,7 +11,7 @@ XXS
       I am using XSS with WP 4.2, which was fixed in version 4.2.1.
   - [ ] GIF Walkthrough:![](https://i.imgur.com/xslxj31.gif)
   - [ ] Steps to Recreate:
-  
+  42f60001cad9
      You have to comment on a post and insert the following into a comment: 
      
      <a title='x onmouseover=alert(unescape(/hello%20world/.source))          style=position:absolute;left:0;top:0;width:5000px;height:5000px <You will then insert 64,000 of a character and hit comment>
@@ -41,7 +41,7 @@ XXS
   - [ ] Summary:
  
   I am using XSS with WP 4.0, which was fixed in version 4.2.
-  - [ ] GIF Walkthrough:![](https://imgur.com/fe79b5e2-b00c-4af3-ad81-42f60001cad9)
+  - [ ] GIF Walkthrough:![](https://i.imgur.com/oEVvcpm.gif)
   - [ ] Steps to Recreate:
   
   You post the following into a comment on a post: <script>while(1){alert(document.cookie);}<script>
